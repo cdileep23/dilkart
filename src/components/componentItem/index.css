@@ -1,0 +1,14 @@
+.eachcategoryItem {
+  list-style-type: none;
+}
+
+.button1 {
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.active-text {
+  color: blue;
+  font-weight: bold;
+}
